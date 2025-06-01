@@ -1,0 +1,2 @@
+# ESP32-WiFi-Manager-with-Captive-Portal-and-NTP-Time-Sync
+This project allows the ESP32 to automatically connect to previously saved WiFi credentials stored in EEPROM. If the connection fails (e.g., network unavailable or credentials changed), the ESP32 sets up a WiFi Access Point (AP) with a captive portal where users can scan available networks and enter new WiFi credentials through a web interface.
